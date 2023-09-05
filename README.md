@@ -1,1 +1,1 @@
-# Practise Deep learning programs mentioned in book of'Deep Learning for Coders with fastai and PyTorch' 
+# Practise deep learning programs written in book: 'Deep Learning for Coders with fastai and PyTorch' 
